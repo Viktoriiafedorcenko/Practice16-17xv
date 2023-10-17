@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Practice_16_17_Curiosity</string>
+    <string name="buttonText_setThem">Сменить тему</string>
+
+    <string name="Text_description">Ночь и Свет: Смена Темы - это удобное приложение, которое позволяет вам персонализировать внешний вид вашего устройства. С нашим приложением, вы сможете легко и быстро переключаться между ночной и светлой темой, в зависимости от ваших предпочтений и окружения.</string>
+    <string name="buttonText_return">Назад</string>
+</resources>
